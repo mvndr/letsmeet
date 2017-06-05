@@ -1,0 +1,28 @@
+{
+  "name": "letsmeet",
+  "version": "1.0.0",
+  "description": "A Single Page Application for people with similar interest and domain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizvasaya/letsmeet.git"
+  },
+  "author": "Manvender Singh Rathore & Faizal N Vasaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizvasaya/letsmeet/issues"
+  },
+  "homepage": "https://github.com/faizvasaya/letsmeet#readme",
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "jasmine-core": "^2.6.2",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.1.1",
+    "karma-firefox-launcher": "^1.0.1",
+    "karma-jasmine": "^1.1.0",
+    "protractor": "^5.1.2"
+  }
+}

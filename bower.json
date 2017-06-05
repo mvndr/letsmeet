@@ -1,0 +1,21 @@
+{
+  "name": "letsmeet",
+  "description": "A Single Page Application for people with similar interest and domain",
+  "main": "index.js",
+  "authors": [
+    "Manvender Singh Rathore & Faizal N Vasaya"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/faizvasaya/letsmeet",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}

@@ -23,6 +23,10 @@
     "karma-chrome-launcher": "^2.1.1",
     "karma-firefox-launcher": "^1.0.1",
     "karma-jasmine": "^1.1.0",
+    "nodemon": "^1.11.0",
     "protractor": "^5.1.2"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
   }
 }
